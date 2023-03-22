@@ -1,0 +1,593 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1679482444457430, "dur":1217, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482444458653, "dur":81, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1679482444458767, "dur":18, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1679482444458786, "dur":500, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1679482444459305, "dur":558, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482444459863, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155342, "dur":280, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155623, "dur":44, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155667, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155670, "dur":24, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155694, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155697, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155707, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155708, "dur":22, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155730, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155732, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155738, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155739, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155745, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155746, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155751, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155753, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155758, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155760, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155766, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155768, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155773, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155774, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155779, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155781, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155786, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155788, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155793, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155795, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155800, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155801, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155807, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155808, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155814, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155824, "dur":40, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445155873, "dur":1453, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1679482444459442, "dur":426, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1679482444459869, "dur":3959, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1679482444463839, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1679482444463840, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1679482444463915, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1679482444463921, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1679482444464785, "dur":7128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1679482444471917, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1679482444472069, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1679482444472076, "dur":229121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1679482444701250, "dur":115897, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1679482444817153, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1679482444817163, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1679482444819279, "dur":36732, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1679482444856017, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1679482444856029, "dur":1125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1679482444857203, "dur":43304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1679482444900514, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1679482444900524, "dur":1031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1679482444901595, "dur":126950, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1679482445028548, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1679482445028556, "dur":1454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1679482445030043, "dur":125293, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444459469, "dur":407, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444459876, "dur":3958, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444463844, "dur":23725, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1679482444487576, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444488151, "dur":62383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1679482444550594, "dur":55056, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444605658, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444605669, "dur":1171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444606887, "dur":33353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444640282, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444640295, "dur":1168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444641518, "dur":30587, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444672112, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444672122, "dur":1567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444673737, "dur":31479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444705251, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444705264, "dur":1587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444706902, "dur":17237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444724143, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444724150, "dur":1463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444725657, "dur":83180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444808844, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444808855, "dur":1683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444810577, "dur":41162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444851743, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482444851752, "dur":3443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482444855248, "dur":170581, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482445025835, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1679482445025846, "dur":2202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1679482445028082, "dur":127258, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444459461, "dur":411, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444459872, "dur":3964, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444463840, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1679482444464016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444471197, "dur":79582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1679482444550825, "dur":23011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444573840, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444573848, "dur":1772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444575670, "dur":18547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444594225, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444594237, "dur":1347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444595631, "dur":30303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444625940, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444625948, "dur":1253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444627241, "dur":15981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444643228, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444643240, "dur":1821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444645118, "dur":16904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444662028, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444662041, "dur":1505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444663600, "dur":17371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444680979, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444680992, "dur":1377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444682415, "dur":18378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444700802, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444700812, "dur":1624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444702587, "dur":19200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444721792, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444721802, "dur":910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444722758, "dur":22257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444745020, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444745029, "dur":1329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444746409, "dur":2021, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444748434, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444748441, "dur":2584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444751064, "dur":1184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444752275, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444752282, "dur":1076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444753404, "dur":27913, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444781356, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444781366, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444782743, "dur":91442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444874192, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482444874232, "dur":1420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482444875699, "dur":127783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482445003487, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1679482445003497, "dur":2151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1679482445005696, "dur":149643, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444459491, "dur":390, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444459881, "dur":3968, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444463851, "dur":371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1679482444464226, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444552099, "dur":396206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1679482444948373, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1679482444948428, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444948436, "dur":1084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1679482444949564, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":4, "ts":1679482444949611, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444949617, "dur":5244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":4, "ts":1679482444954917, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":4, "ts":1679482444954967, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444954976, "dur":3042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":4, "ts":1679482444958060, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":4, "ts":1679482444958103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444958110, "dur":884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":4, "ts":1679482444959048, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":4, "ts":1679482444959092, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444959096, "dur":20947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":4, "ts":1679482444980117, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1679482444980172, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444980180, "dur":1795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1679482444982020, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1679482444982069, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444982073, "dur":2796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1679482444984914, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1679482444984956, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444984961, "dur":1503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1679482444986506, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1679482444986630, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1679482444986636, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1679482444988620, "dur":166740, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1679482444459511, "dur":374, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1679482444459885, "dur":3952, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1679482444463840, "dur":7643, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1679482444471512, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1679482444471525, "dur":1941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1679482444473513, "dur":558034, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1679482445031552, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1679482445031559, "dur":10536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1679482445042136, "dur":113206, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444459540, "dur":349, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444459889, "dur":3949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444463840, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1679482444464004, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444465731, "dur":8225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1679482444474001, "dur":709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale.exe" }}
+,{ "pid":12345, "tid":6, "ts":1679482444474748, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444474761, "dur":76209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale.exe" }}
+,{ "pid":12345, "tid":6, "ts":1679482444551024, "dur":35282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444586309, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444586318, "dur":1117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444587481, "dur":128802, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444716287, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444716296, "dur":2673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444719016, "dur":37102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444756125, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444756136, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444757645, "dur":879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444758530, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444758538, "dur":1217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444759801, "dur":99433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444859240, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444859251, "dur":1325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444860626, "dur":129870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444990504, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1679482444990516, "dur":2612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1679482444993176, "dur":162156, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444459557, "dur":336, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444459893, "dur":3950, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444463847, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1679482444464056, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444551294, "dur":377927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1679482444929279, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":7, "ts":1679482444929419, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444933055, "dur":1261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":7, "ts":1679482444934363, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1679482444934409, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444934477, "dur":9312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1679482444943840, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1679482444943883, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444943891, "dur":1340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1679482444945277, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":7, "ts":1679482444945323, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444945329, "dur":927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":7, "ts":1679482444946299, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets6.resource" }}
+,{ "pid":12345, "tid":7, "ts":1679482444946342, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444946348, "dur":8623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets6.resource" }}
+,{ "pid":12345, "tid":7, "ts":1679482444955020, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1679482444955066, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444955071, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1679482444956506, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":7, "ts":1679482444956552, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444956557, "dur":2914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":7, "ts":1679482444959516, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1679482444959561, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444959565, "dur":11446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1679482444971062, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1679482444971109, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444971114, "dur":1918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1679482444973080, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1679482444973127, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444973136, "dur":1905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1679482444975083, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1679482444975129, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444975133, "dur":2792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1679482444977989, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1679482444978052, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444978061, "dur":3690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1679482444981796, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level5" }}
+,{ "pid":12345, "tid":7, "ts":1679482444981917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444981922, "dur":2030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level5" }}
+,{ "pid":12345, "tid":7, "ts":1679482444984000, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1679482444984052, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444984058, "dur":1063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1679482444985156, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1679482444985203, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1679482444985208, "dur":1876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1679482444987135, "dur":168200, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444459573, "dur":323, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444459897, "dur":3958, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444463858, "dur":7904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1679482444471765, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444471910, "dur":1311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1679482444473269, "dur":34626, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444507901, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444507986, "dur":48453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444556501, "dur":27127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444583632, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444583640, "dur":2616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444586313, "dur":31621, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444617941, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444617952, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444618996, "dur":38906, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444657906, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444657920, "dur":1045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444659012, "dur":39026, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444698042, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444698049, "dur":2805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444700909, "dur":14653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444715570, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444715585, "dur":2028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444717668, "dur":25753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444743449, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444743458, "dur":1811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444745314, "dur":38538, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444783857, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444783866, "dur":2517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444786424, "dur":115444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444901872, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444901880, "dur":1342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444903266, "dur":56211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444959481, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444959487, "dur":1515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1679482444961050, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1679482444961099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444961106, "dur":9873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1679482444971030, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":8, "ts":1679482444971079, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444971088, "dur":3715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":8, "ts":1679482444974850, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1679482444974902, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444974910, "dur":3010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1679482444977979, "dur":1164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1679482444979148, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444979157, "dur":1921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1679482444981119, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level6" }}
+,{ "pid":12345, "tid":8, "ts":1679482444981171, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444981176, "dur":2998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level6" }}
+,{ "pid":12345, "tid":8, "ts":1679482444984216, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1679482444984283, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1679482444984287, "dur":2709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1679482444987042, "dur":168292, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444459597, "dur":304, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444459901, "dur":3943, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444463845, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1679482444464009, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444471142, "dur":79472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1679482444550664, "dur":18598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444569269, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444569831, "dur":1247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444571128, "dur":15495, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444586627, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444586634, "dur":1217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444587894, "dur":120726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444708627, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444708639, "dur":1806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444710495, "dur":37726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444748225, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444748234, "dur":2639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444750919, "dur":875, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444751798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444751807, "dur":1149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444753009, "dur":27556, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444780572, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444780584, "dur":5168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444785800, "dur":138668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444924472, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482444924482, "dur":1687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482444926213, "dur":75909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482445002241, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1679482445002521, "dur":2513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1679482445005091, "dur":150250, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444459636, "dur":269, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444459905, "dur":3952, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444463857, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1679482444464034, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444550187, "dur":12247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1679482444562489, "dur":20174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444582671, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444582685, "dur":2035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444584773, "dur":59028, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444643805, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444643812, "dur":2126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444645981, "dur":13499, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444659484, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444659492, "dur":1168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444660704, "dur":27841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444688549, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444688555, "dur":7914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444696524, "dur":50757, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444747286, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444747296, "dur":1104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444748449, "dur":60949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444809402, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444809408, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444811501, "dur":101127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444912636, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482444912650, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482444914397, "dur":238387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482445152788, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1679482445152796, "dur":2468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1679482445155298, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":10, "ts":1679482445155300, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444459652, "dur":256, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444459908, "dur":3937, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444463846, "dur":7258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1679482444471107, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444471172, "dur":1318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1679482444472539, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1679482444472728, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444472735, "dur":2659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1679482444475450, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1679482444475585, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444475840, "dur":87306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1679482444563193, "dur":23904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444587102, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444587136, "dur":1184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444588366, "dur":18225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444606595, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444606603, "dur":2689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444609357, "dur":15699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444625063, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444625075, "dur":1363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444626484, "dur":16813, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444643301, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444643308, "dur":2198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444645553, "dur":19058, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444664616, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444664626, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444665669, "dur":26064, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444691775, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444691786, "dur":6259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444698093, "dur":25911, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444724010, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444724021, "dur":1619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444725684, "dur":195427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444921119, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482444921130, "dur":3263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482444924451, "dur":166520, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482445090976, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1679482445090985, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1679482445092366, "dur":62998, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444459667, "dur":245, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444459912, "dur":3934, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444463849, "dur":388, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1679482444464241, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444559262, "dur":2228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1679482444561543, "dur":84627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444646174, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444646184, "dur":1007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444647235, "dur":33901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444681140, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444681147, "dur":1357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444682921, "dur":14817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444697743, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444697753, "dur":1242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444699045, "dur":17781, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444716830, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444716837, "dur":14903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444731788, "dur":4833, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444736630, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444736643, "dur":2182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444738871, "dur":47106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444785980, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444785990, "dur":1798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444787839, "dur":76136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444863981, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482444863992, "dur":1188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482444865222, "dur":155477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482445020706, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1679482445020716, "dur":1187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1679482445021940, "dur":133398, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444459684, "dur":231, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444459915, "dur":3945, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444463861, "dur":7242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1679482444471107, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444471474, "dur":1216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1679482444472728, "dur":30304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444503039, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444503546, "dur":48239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444551834, "dur":31502, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444583340, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444583348, "dur":1649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444585047, "dur":14383, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444599437, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444599449, "dur":1570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444601067, "dur":80871, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444682529, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444682537, "dur":1302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444683887, "dur":17027, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444700917, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444700923, "dur":1715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444702684, "dur":18008, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444720728, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444720739, "dur":1248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444722045, "dur":28470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444750522, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444750534, "dur":1014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444751600, "dur":26970, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444778593, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444778613, "dur":6959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444785622, "dur":170858, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444956484, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444956492, "dur":2257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":13, "ts":1679482444958794, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1679482444958840, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444958846, "dur":14400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1679482444973511, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":13, "ts":1679482444973577, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444973584, "dur":1810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":13, "ts":1679482444975441, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1679482444975575, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444975580, "dur":5038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1679482444980669, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level7" }}
+,{ "pid":12345, "tid":13, "ts":1679482444980721, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444980728, "dur":1300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level7" }}
+,{ "pid":12345, "tid":13, "ts":1679482444982068, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level3" }}
+,{ "pid":12345, "tid":13, "ts":1679482444982115, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444982118, "dur":2755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/level3" }}
+,{ "pid":12345, "tid":13, "ts":1679482444984915, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1679482444984957, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1679482444984961, "dur":3378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1679482444988387, "dur":166944, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444459702, "dur":217, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444459919, "dur":3929, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444463850, "dur":7203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1679482444471057, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444471142, "dur":1231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1679482444472426, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":14, "ts":1679482444472559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444472565, "dur":78984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":14, "ts":1679482444551605, "dur":33269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444584877, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444584885, "dur":1245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444586176, "dur":23085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444609265, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444609274, "dur":1431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444610748, "dur":57783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444668540, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444668553, "dur":1340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444669941, "dur":18281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444688232, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444688245, "dur":1709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444689996, "dur":22023, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444712026, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444712037, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444713399, "dur":28371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444741778, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444741790, "dur":1241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444743077, "dur":32810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444775896, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444775909, "dur":2065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444778024, "dur":56954, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444834984, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482444834994, "dur":1409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482444836460, "dur":175822, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482445012292, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1679482445012305, "dur":1634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":14, "ts":1679482445013996, "dur":141349, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1679482444459727, "dur":195, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1679482444459922, "dur":3930, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1679482444463854, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1679482444464035, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1679482444552219, "dur":6918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1679482444559189, "dur":19645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444578876, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1679482444578890, "dur":1509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444580448, "dur":50100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444630555, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1679482444630567, "dur":1109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444631721, "dur":24739, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444656469, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1679482444656483, "dur":1105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444657634, "dur":14843, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444672482, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1679482444672514, "dur":2131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444674695, "dur":89106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444763808, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1679482444763820, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444765411, "dur":231403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482444996823, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1679482444996835, "dur":5622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1679482445002509, "dur":152860, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444459750, "dur":175, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444459925, "dur":3915, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444463842, "dur":7743, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1679482444471588, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444471602, "dur":2040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1679482444473692, "dur":77258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":16, "ts":1679482444550954, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444550960, "dur":2742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":16, "ts":1679482444553768, "dur":18505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444572278, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444572361, "dur":1042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444573451, "dur":15164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444588620, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444588629, "dur":1255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444589934, "dur":31291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444621231, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444621241, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444622541, "dur":27144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444649694, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444649707, "dur":1634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444651387, "dur":37363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444688776, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444688781, "dur":8165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444696995, "dur":19450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444716450, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444716457, "dur":3179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444719683, "dur":130526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444850216, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482444850227, "dur":1139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482444851413, "dur":209095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482445060514, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1679482445060523, "dur":3112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Dronnzer/Desktop/MY Games/Fox's Tale_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":16, "ts":1679482445063688, "dur":91656, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1679482445158552, "dur":1567, "ph":"X", "name": "ProfilerWriteOutput" }
+,
